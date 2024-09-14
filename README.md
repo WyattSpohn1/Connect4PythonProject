@@ -1,2 +1,1 @@
-"# Connect4PythonProject" 
-"# Connect4PythonProject" 
+The main objective of this python project was to create a game of connect 4 that can be played with 2 people or with one person playing against the "computer". The "computer" has commands on how to play strategically rather than placing a chip in any random column.
